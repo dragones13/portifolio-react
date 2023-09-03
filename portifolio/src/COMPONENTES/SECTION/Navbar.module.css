@@ -1,0 +1,21 @@
+.Navbar{
+    display: flex;
+    justify-content: space-between;
+    padding: 1.rem;
+    padding-left: 30px;
+}
+.Navbar ul{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    align-items: center;
+    font-size: 27px;
+
+}
+.Navbar li{
+    margin: 15px;
+}
+.Navbar a{
+    color: aliceblue !important;
+
+}
