@@ -6,7 +6,7 @@ import portifolio from '../../imgage/Projects/portifolio.svg'
 
 function Projects(){
     return(
-        <div className={styles.Projects} id='Projects+'>
+        <div className={styles.Projects} id='Projects'>
             <h1>Projetos</h1>
             <Card
             img={ipdnc}
